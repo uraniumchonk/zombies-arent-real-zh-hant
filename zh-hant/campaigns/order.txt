@@ -1,0 +1,18 @@
+# The order the campaigns are listed in (the campaign list and the globe's CAMPAIGN tab).
+# One campaign file name per line, without .cmp. Campaigns not listed here follow, A to Z;
+# each build appends them to the end of this file (tools/order-fill.sh).
+# Listed easiest first, by each campaign's difficulty rating (the .cmp's difficulty = 1..5),
+# from how far its first stage's money covers what a headless plan needed to win it.
+Boston_MA
+Miami_FL
+Chicago_IL
+Venice_Italy
+San_Francisco_CA
+Detroit_MI
+Capitol_Hill_Washington_DC
+Seattle_WA
+Amsterdam_Netherlands
+Nuremberg_Germany
+Barcelona_Spain
+Paris_France
+New_York_City

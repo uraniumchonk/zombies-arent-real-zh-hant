@@ -1,0 +1,42 @@
+# Zombies Aren't Real campaign -- 4 stages on barcelona_spain.map.
+name = 巴塞隆納，西班牙
+map  = barcelona_spain
+difficulty = 5
+civilians = 54941 183154 446346 498561
+land_km2 = 157.87
+origin_lon = 2.0362110004
+origin_lat = 41.2774059994
+map_mx = 83524.740159
+map_my = 111320.000000
+
+[stage]
+# -- stage 1 --
+[playarea]
+13756.02 12631.70
+10630.86 12144.79
+10853.71 8823.00
+13642.00 9786.00
+
+[stage]
+# -- stage 2 --
+[playarea]
+14049.61 14271.22
+9425.35 13741.01
+10012.86 8000.23
+14184.00 9560.00
+
+[stage]
+# -- stage 3 --
+[playarea]
+15998.50 16172.12
+7215.37 15196.85
+8251.66 5922.56
+14184.00 9560.00
+
+[stage]
+# -- stage 4 --
+[playarea]
+17523.99 19640.41
+4377.53 17762.89
+4781.54 3510.36
+14184.00 9560.00

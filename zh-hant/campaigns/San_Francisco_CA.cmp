@@ -1,0 +1,52 @@
+# Zombies Aren't Real campaign -- 5 stages on custom_us_sanfrancisco_c76781.map.
+name = 聖地牙哥，加州
+map  = custom_us_sanfrancisco_c76781
+people_per_building_area = 0.006
+difficulty = 3
+civilians = 6188 19600 71861 161782 213952
+land_km2 = 117.82
+origin_lon = -122.5260589995
+origin_lat = 37.6694430002
+map_mx = 87974.421240
+map_my = 111320.000000
+
+[stage]
+# -- stage 1 --
+[playarea]
+4978.03 5262.88
+4975.13 6922.99
+2348.57 7004.59
+2510.70 4575.70
+
+[stage]
+# -- stage 2 --
+[playarea]
+5646.90 4866.58
+5664.41 8181.24
+1801.80 7670.06
+1948.00 4345.92
+
+[stage]
+# -- stage 3 --
+[playarea]
+7208.89 4839.53
+7765.77 11134.67
+1476.12 10536.88
+1948.00 4345.92
+
+[stage]
+# -- stage 4 --
+[playarea]
+7208.89 4839.53
+11590.00 15232.00
+1171.56 12748.70
+1948.00 4345.92
+
+[stage]
+# -- stage 5 --
+[playarea]
+11920.62 4916.89
+15212.00 6010.00
+11730.00 15532.00
+1030.00 12972.00
+1948.00 4345.92
